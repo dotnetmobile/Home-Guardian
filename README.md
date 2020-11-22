@@ -4,7 +4,7 @@
 
 Proof of concept taking a picture of an intruder when very close (&lt;=10 cm) to the home. 
 
-All credits go to authors of followin references: 
+All credits go to authors of following references: 
 
 * Pi camera
      https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
@@ -16,7 +16,7 @@ All credits go to authors of followin references:
  
 DIY now ;-)
 
-<img src="images/Home-Guardian.jpg" width="500" height="500"/>
+<img src="images/Home-Guardian.jpg" width="500" height="250"/>
 <img src="images/Behind-the-scenes.jpg" width="250" height="250"/>
 <img src="images/intruder_1.jpg" width="250" height="250"/>
 
