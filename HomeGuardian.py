@@ -1,5 +1,5 @@
 """
-    Home guardian
+    Home guardian by dotnetmobile@gmail.com
     
     Goal: proof of concept taking a picture of an intruder when very close (<=10 cm) to the home.
     
@@ -90,7 +90,6 @@ if __name__ == '__main__':
         index = 0
         
         while True:
-            #print("hello")
             dist = guardian.distance()
             print ("Measured Distance = %.1f cm" % dist)
             time.sleep(1)

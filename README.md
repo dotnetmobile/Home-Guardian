@@ -16,7 +16,7 @@ All credits go to authors of following references:
  
 DIY now ;-)
 
-<img src="images/Home-Guardian.jpg" width="500" height="250"/>
+<img src="images/Home-Guardian.jpg" width="250" height="250"/>
 <img src="images/Behind-the-scenes.jpg" width="250" height="250"/>
 <img src="images/intruder_1.jpg" width="250" height="250"/>
 
